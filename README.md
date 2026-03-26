@@ -1,4 +1,4 @@
-# MIS4610-Project
+# MIS4610 Project 1
 ## Team Name:
 24182 Group 2
 
