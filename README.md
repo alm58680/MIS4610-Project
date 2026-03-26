@@ -24,7 +24,7 @@ The model also includes Employees, who are associated with dorms and departments
 Dorm operations are supported through logistics and upkeep entities. The Renovations entity tracks updates made to dorms, including areas renovated and completion timelines, forming a relationship with Dorm. The Deliveries entity represents supply deliveries made to dorms, which are linked to SupplyOrders that track order details such as number of items and total price.
 Overall, this data model captures both the residential structure (dorms, rooms, students) and the operational processes (maintenance, payments, employees, logistics) of university housing. The relationships between these entities allow for efficient tracking, management, and querying of housing data to support administrative decision-making.
 
-## Data Dictionary
+## Data Dictionary:
 
 ## Queries:
 
