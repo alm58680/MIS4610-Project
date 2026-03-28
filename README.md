@@ -28,6 +28,15 @@ Overall, this data model captures both the residential structure (dorms, rooms, 
 
 
 ## Data Dictionary:
+<img width="759" height="718" alt="Screenshot 2026-03-27 at 9 39 05 PM" src="https://github.com/user-attachments/assets/840333e4-3f54-4a61-aecf-636c6f433c2b" />
+<img width="759" height="718" alt="Screenshot 2026-03-27 at 9 39 05 PM" src="https://github.com/user-attachments/assets/ddf2f420-cc1e-4e42-9204-0ff20b56dea8" />
+<img width="769" height="954" alt="Screenshot 2026-03-27 at 9 39 32 PM" src="https://github.com/user-attachments/assets/e20af69b-3d42-438b-bf66-349bcff309a0" />
+<img width="786" height="941" alt="Screenshot 2026-03-27 at 9 40 00 PM" src="https://github.com/user-attachments/assets/ef61c88a-9d2a-4596-955e-144521e48576" />
+<img width="782" height="764" alt="Screenshot 2026-03-27 at 9 40 18 PM" src="https://github.com/user-attachments/assets/46489875-5334-40c9-b13f-4affae509a14" />
+<img width="781" height="701" alt="Screenshot 2026-03-27 at 9 40 39 PM" src="https://github.com/user-attachments/assets/bad5bfce-5926-4502-b5ca-c3b8b4ebaaad" />
+<img width="779" height="849" alt="Screenshot 2026-03-27 at 9 41 00 PM" src="https://github.com/user-attachments/assets/652809e3-0a56-4465-865b-5b03e0470de5" />
+<img width="794" height="592" alt="Screenshot 2026-03-27 at 9 41 27 PM" src="https://github.com/user-attachments/assets/1a434b04-edbb-49fc-8c01-3822a534e320" />
+
 
 ## Queries:
 
