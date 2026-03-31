@@ -24,7 +24,8 @@ The model also includes Employees, who are associated with dorms and departments
 Dorm operations are supported through logistics and upkeep entities. The Renovations entity tracks updates made to dorms, including areas renovated and completion timelines, forming a relationship with Dorm. The Deliveries entity represents supply deliveries made to dorms, which are linked to SupplyOrders that track order details such as number of items and total price.
 Overall, this data model captures both the residential structure (dorms, rooms, students) and the operational processes (maintenance, payments, employees, logistics) of university housing. The relationships between these entities allow for efficient tracking, management, and querying of housing data to support administrative decision-making.
 
-<img width="1270" height="1080" alt="image" src="https://github.com/user-attachments/assets/6b045017-1630-4ba1-ac54-5df58e152058" />
+<img width="711" height="590" alt="Screenshot 2026-03-31 at 10 58 08 AM" src="https://github.com/user-attachments/assets/ad5be965-47b0-43f8-99db-d1edadb1de98" />
+
 
 
 ## Data Dictionary:
@@ -72,8 +73,6 @@ This determines each dorm's average room size. It makes it easier to compare whi
 This returns dorms where there aren't any rooms available right now and the total number of rooms are at least 100. Seeing which resident halls are completely occupied is helpful.
 
 <img width="683" height="628" alt="Screenshot 2026-03-31 at 10 51 08 AM" src="https://github.com/user-attachments/assets/e41ffce2-b224-4095-b53a-5a9224a42dcc" />
-
-
 <img width="647" height="527" alt="Screenshot 2026-03-31 at 10 52 43 AM" src="https://github.com/user-attachments/assets/bf6a8a00-665a-4a64-96a3-db40de81afcf" />
 
 **Query 5:** Students with above-average total payments
@@ -81,6 +80,13 @@ This returns dorms where there aren't any rooms available right now and the tota
 **What it does:**
 This finds students who have paid more than the average total amount across all students. It helps identify high-paying students or those contributing more financially compared to others.
 
+<img width="708" height="480" alt="Screenshot 2026-03-31 at 11 00 31 AM" src="https://github.com/user-attachments/assets/5e60ec45-007e-493e-9812-d50e180ed81a" />
+<img width="710" height="219" alt="Screenshot 2026-03-31 at 11 02 02 AM" src="https://github.com/user-attachments/assets/0f900a37-c9b0-47ea-bbf9-8f78b31dcda0" />
+
+**Query 6:** Dorms with “suite-style” or “apartment-style” rooms
+
+**What it does:**
+It uses REGEXP rather than several OR conditions to find dorms with apartment style or suite style rooms.
 ## Database information:
 Name of database: al_isj44731. 
 Each query listed above has been implemented and stored in the database as a stored procedure.
