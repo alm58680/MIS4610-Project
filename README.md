@@ -71,7 +71,17 @@ This determines each dorm's average room size. It makes it easier to compare whi
 **What it does:**
 This returns dorms where there aren't any rooms available right now and the total number of rooms are at least 100. Seeing which resident halls are completely occupied is helpful.
 
+<img width="683" height="628" alt="Screenshot 2026-03-31 at 10 51 08 AM" src="https://github.com/user-attachments/assets/e41ffce2-b224-4095-b53a-5a9224a42dcc" />
+
+
+<img width="647" height="527" alt="Screenshot 2026-03-31 at 10 52 43 AM" src="https://github.com/user-attachments/assets/bf6a8a00-665a-4a64-96a3-db40de81afcf" />
+
+**Query 5:** Students with above-average total payments
+
+**What it does:**
+This finds students who have paid more than the average total amount across all students. It helps identify high-paying students or those contributing more financially compared to others.
 
 ## Database information:
 Name of database: al_isj44731. 
 Each query listed above has been implemented and stored in the database as a stored procedure.
+
