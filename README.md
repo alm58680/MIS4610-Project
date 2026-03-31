@@ -40,6 +40,8 @@ Overall, this data model captures both the residential structure (dorms, rooms, 
 
 
 ## Queries:
+<img width="1480" height="810" alt="image" src="https://github.com/user-attachments/assets/b210a72a-2a20-4210-a38e-1385d4351ac1" />
+
 <img width="476" height="229" alt="Screenshot 2026-03-31 at 10 31 13 AM" src="https://github.com/user-attachments/assets/9a163f91-1f96-4333-8783-2877474ea5c2" />
 <img width="550" height="297" alt="Screenshot 2026-03-31 at 10 29 50 AM" src="https://github.com/user-attachments/assets/c7ba8da8-f36b-43d0-a01c-cadefb504394" />
 
