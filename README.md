@@ -41,3 +41,5 @@ Overall, this data model captures both the residential structure (dorms, rooms, 
 ## Queries:
 
 ## Database information:
+Name of database: al_isj44731. 
+Each query listed above has been implemented and stored in the database as a stored procedure.
