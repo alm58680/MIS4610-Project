@@ -5,7 +5,7 @@
 ## Team Members:
 1. Andrew Macri 
 2. Zach Schiller
-3. Irene Jacob 
+3. Irene Jacob @irenejacob-17
 4. Alex Tumen
 5. Fawazz Mohdraji
 
