@@ -63,6 +63,14 @@ This finds students who have not made all of their payments. Students with unpai
 **What it does:**
 This determines each dorm's average room size. It makes it easier to compare which dorms typically have bigger or smaller rooms.
 
+<img width="667" height="413" alt="Screenshot 2026-03-31 at 10 37 48 AM" src="https://github.com/user-attachments/assets/fa14c1c6-3d44-4a5b-af9c-d43158d37e76" />
+<img width="713" height="568" alt="Screenshot 2026-03-31 at 10 38 17 AM" src="https://github.com/user-attachments/assets/9520fd5c-ab94-42ea-9469-833936b97ccd" />
+
+**Query 4:** Dorms that are at full capacity and total rooms are greater than 100
+
+**What it does:**
+This returns dorms where there aren't any rooms available right now and the total number of rooms are at least 100. Seeing which resident halls are completely occupied is helpful.
+
 
 ## Database information:
 Name of database: al_isj44731. 
