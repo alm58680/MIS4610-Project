@@ -39,6 +39,30 @@ Overall, this data model captures both the residential structure (dorms, rooms, 
 
 
 ## Queries:
+<img width="476" height="229" alt="Screenshot 2026-03-31 at 10 31 13 AM" src="https://github.com/user-attachments/assets/9a163f91-1f96-4333-8783-2877474ea5c2" />
+<img width="550" height="297" alt="Screenshot 2026-03-31 at 10 29 50 AM" src="https://github.com/user-attachments/assets/c7ba8da8-f36b-43d0-a01c-cadefb504394" />
+
+**Query 1:** Dorms with the highest maintenance activity
+
+**What it does:**
+The dorms with the highest number of maintenance requests are displayed by this query. After connecting dorms to rooms, rooms to students, and students to maintenance requests, it calculates the number of requests that originated from each dorm.
+
+<img width="715" height="81" alt="Screenshot 2026-03-31 at 10 32 34 AM" src="https://github.com/user-attachments/assets/6bc64b90-2db2-437a-9397-3fa51b79f94f" />
+<img width="716" height="239" alt="Screenshot 2026-03-31 at 10 32 48 AM" src="https://github.com/user-attachments/assets/98182140-13f1-479e-a377-9bc11f865849" />
+
+**Query 2:** Students who have unpaid or pending payments
+
+**What it does:**
+This finds students who have not made all of their payments. Students with unpaid, failed, or pending balances might be identified with its help.
+
+<img width="715" height="142" alt="Screenshot 2026-03-31 at 10 34 20 AM" src="https://github.com/user-attachments/assets/716b9be0-0aea-4ae5-8c50-de7b5417e3fc" />
+<img width="709" height="390" alt="Screenshot 2026-03-31 at 10 34 49 AM" src="https://github.com/user-attachments/assets/62f73ea8-ed4a-42aa-a11d-0595c9a03363" />
+
+**Query 3:** Average room size by dorm
+
+**What it does:**
+This determines each dorm's average room size. It makes it easier to compare which dorms typically have bigger or smaller rooms.
+
 
 ## Database information:
 Name of database: al_isj44731. 
