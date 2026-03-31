@@ -50,6 +50,7 @@ The dorms with the highest number of maintenance requests are displayed by this 
 <img width="476" height="229" alt="Screenshot 2026-03-31 at 10 31 13 AM" src="https://github.com/user-attachments/assets/9a163f91-1f96-4333-8783-2877474ea5c2" />
 <img width="550" height="297" alt="Screenshot 2026-03-31 at 10 29 50 AM" src="https://github.com/user-attachments/assets/c7ba8da8-f36b-43d0-a01c-cadefb504394" />
 
+
 **Query 2:** Students who have unpaid or pending payments
 
 **What it does:**
@@ -57,6 +58,7 @@ This finds students who have not made all of their payments. Students with unpai
 
 <img width="715" height="81" alt="Screenshot 2026-03-31 at 10 32 34 AM" src="https://github.com/user-attachments/assets/6bc64b90-2db2-437a-9397-3fa51b79f94f" />
 <img width="716" height="239" alt="Screenshot 2026-03-31 at 10 32 48 AM" src="https://github.com/user-attachments/assets/98182140-13f1-479e-a377-9bc11f865849" />
+
 
 **Query 3:** Average room size by dorm
 
@@ -66,6 +68,7 @@ This determines each dorm's average room size. It makes it easier to compare whi
 <img width="715" height="142" alt="Screenshot 2026-03-31 at 10 34 20 AM" src="https://github.com/user-attachments/assets/716b9be0-0aea-4ae5-8c50-de7b5417e3fc" />
 <img width="709" height="390" alt="Screenshot 2026-03-31 at 10 34 49 AM" src="https://github.com/user-attachments/assets/62f73ea8-ed4a-42aa-a11d-0595c9a03363" />
 
+
 **Query 4:** Dorms that are at full capacity and total rooms are greater than 100
 
 **What it does:**
@@ -73,6 +76,7 @@ This returns dorms where there aren't any rooms available right now and the tota
 
 <img width="667" height="413" alt="Screenshot 2026-03-31 at 10 37 48 AM" src="https://github.com/user-attachments/assets/fa14c1c6-3d44-4a5b-af9c-d43158d37e76" />
 <img width="713" height="568" alt="Screenshot 2026-03-31 at 10 38 17 AM" src="https://github.com/user-attachments/assets/9520fd5c-ab94-42ea-9469-833936b97ccd" />
+
 
 **Query 5:** Students with above-average total payments
 
@@ -82,6 +86,7 @@ This finds students who have paid more than the average total amount across all 
 <img width="683" height="628" alt="Screenshot 2026-03-31 at 10 51 08 AM" src="https://github.com/user-attachments/assets/e41ffce2-b224-4095-b53a-5a9224a42dcc" />
 <img width="647" height="527" alt="Screenshot 2026-03-31 at 10 52 43 AM" src="https://github.com/user-attachments/assets/bf6a8a00-665a-4a64-96a3-db40de81afcf" />
 
+
 **Query 6:** Dorms with “suite-style” or “apartment-style” rooms
 
 **What it does:**
@@ -89,6 +94,42 @@ It uses REGEXP rather than several OR conditions to find dorms with apartment st
 
 <img width="708" height="480" alt="Screenshot 2026-03-31 at 11 00 31 AM" src="https://github.com/user-attachments/assets/5e60ec45-007e-493e-9812-d50e180ed81a" />
 <img width="710" height="219" alt="Screenshot 2026-03-31 at 11 02 02 AM" src="https://github.com/user-attachments/assets/0f900a37-c9b0-47ea-bbf9-8f78b31dcda0" />
+
+
+**Query 7:** Dorms with no deliveries 
+
+**What it does:**
+This returns dorms that have never received any deliveries. It helps identify dorms that may not be getting supply orders or operational support.
+
+<img width="709" height="463" alt="Screenshot 2026-03-31 at 11 32 10 AM" src="https://github.com/user-attachments/assets/17202b17-685b-40ca-9ae0-f5aa38fefb70" />
+<img width="679" height="498" alt="Screenshot 2026-03-31 at 11 32 20 AM" src="https://github.com/user-attachments/assets/574c8ee9-a879-47ca-a32f-35979dde5774" />
+
+
+**Query 8:** Dorms with more than 2 students assigned
+
+**What it does:**
+Dorms with more than two allocated students are displayed below. This makes it easier for housing officials to compare areas with the highest student demand and quickly discover dorms with higher occupancy.
+
+<img width="713" height="565" alt="Screenshot 2026-03-31 at 11 32 37 AM" src="https://github.com/user-attachments/assets/5379f9c9-8822-4f40-9118-1d680285a779" />
+<img width="714" height="364" alt="Screenshot 2026-03-31 at 11 32 50 AM" src="https://github.com/user-attachments/assets/cb77f1b0-e083-406f-a67d-60b336fd3dc6" />
+
+
+**Query 9:** Supply orders and deliveries by dorm
+
+**What it does:**
+This displays the overall cost of the associated supply orders as well as the number of deliveries each dorm got. It aids in monitoring costs for dorm supplies and operational assistance.
+
+<img width="711" height="368" alt="Screenshot 2026-03-31 at 11 33 09 AM" src="https://github.com/user-attachments/assets/a91dd40c-72ba-450e-acfa-e00766ba9653" />
+<img width="705" height="659" alt="Screenshot 2026-03-31 at 11 33 54 AM" src="https://github.com/user-attachments/assets/d8762c6a-65b4-49b5-9036-ad8f13b4b953" />
+
+
+**Query 10:** Students living in dorms with recent renovations
+
+**What it does:**
+This locates students who reside in dorms that have recently undergone renovations. Finding out which students are gaining from modern dorm amenities can be helpful.
+
+<img width="585" height="612" alt="Screenshot 2026-03-31 at 11 39 08 AM" src="https://github.com/user-attachments/assets/1e4269c3-f7d8-42a3-91a2-896260c5b23e" />
+<img width="715" height="591" alt="Screenshot 2026-03-31 at 11 39 28 AM" src="https://github.com/user-attachments/assets/f3eb5574-0df9-4fd7-8ae4-e75af8d6eeb6" />
 
 
 ## Database information:
