@@ -31,14 +31,18 @@ Overall, this data model captures both the residential structure (dorms, rooms, 
 
 
 ## Data Dictionary:
+<img width="778" height="637" alt="Screenshot 2026-04-01 at 12 01 42 AM" src="https://github.com/user-attachments/assets/b59fa14f-f885-4309-8019-81f435e6da3d" />
+<img width="699" height="594" alt="Screenshot 2026-03-31 at 11 43 01 PM" src="https://github.com/user-attachments/assets/1796742d-ba8a-4725-b6b4-f602db69389b" />
+<img width="773" height="577" alt="Screenshot 2026-04-01 at 12 02 44 AM" src="https://github.com/user-attachments/assets/ccf927f1-dfc4-4bb0-85b7-e55649460278" />
+<img width="782" height="764" alt="Screenshot 2026-03-27 at 9 40 18 PM" src="https://github.com/user-attachments/assets/46489875-5334-40c9-b13f-4affae509a14" />
+<img width="783" height="567" alt="Screenshot 2026-04-01 at 12 03 05 AM" src="https://github.com/user-attachments/assets/5c70e7e7-8511-4a69-af14-890e109b1dee" />
+<img width="781" height="701" alt="Screenshot 2026-03-27 at 9 40 39 PM" src="https://github.com/user-attachments/assets/bad5bfce-5926-4502-b5ca-c3b8b4ebaaad" />
 <img width="694" height="667" alt="Screenshot 2026-03-31 at 11 37 25 PM" src="https://github.com/user-attachments/assets/3fdf5f9e-8d87-421c-b9d7-d6394bc36c1b" />
 <img width="711" height="579" alt="Screenshot 2026-03-31 at 11 42 13 PM" src="https://github.com/user-attachments/assets/0451fdee-0c5e-4af7-8cc0-15e008c3c333" />
-<img width="699" height="594" alt="Screenshot 2026-03-31 at 11 43 01 PM" src="https://github.com/user-attachments/assets/1796742d-ba8a-4725-b6b4-f602db69389b" />
-<img width="628" height="789" alt="Screenshot 2026-03-31 at 11 46 31 PM" src="https://github.com/user-attachments/assets/9a2a1031-653c-495c-8e2b-f87e90cba1c9" />
-<img width="782" height="764" alt="Screenshot 2026-03-27 at 9 40 18 PM" src="https://github.com/user-attachments/assets/46489875-5334-40c9-b13f-4affae509a14" />
-<img width="781" height="701" alt="Screenshot 2026-03-27 at 9 40 39 PM" src="https://github.com/user-attachments/assets/bad5bfce-5926-4502-b5ca-c3b8b4ebaaad" />
-<img width="706" height="814" alt="Screenshot 2026-03-31 at 11 45 44 PM" src="https://github.com/user-attachments/assets/297dae83-4ec4-453c-81e0-4344d343ed27" />
-<img width="720" height="520" alt="Screenshot 2026-03-31 at 11 45 09 PM" src="https://github.com/user-attachments/assets/795e668f-f778-4576-932f-dd0e86dec5f3" />
+<img width="777" height="747" alt="Screenshot 2026-04-01 at 12 10 49 AM" src="https://github.com/user-attachments/assets/b8d6a24d-8a00-49ce-99c2-598ae950f19e" />
+
+
+
 
 
 
